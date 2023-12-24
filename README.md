@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Totodile-Kyer
 - 👀 I’m interested in scientific research
 - 🌱 I’m currently learning Ruby, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on any IHPC Computing projects
+- 💞️ I’m looking to collaborate on any IHPC projects
 
 
 <!---
